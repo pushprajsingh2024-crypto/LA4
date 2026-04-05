@@ -64,7 +64,7 @@ function GradeCalculator() {
       {/* Header Section */}
       <div style={{ textAlign: "center", marginTop: "20px" }}>
         <h3>Name: Pushpraj</h3>
-        <h4>Reg No: 24BCE00044</h4>
+        <h4>Reg No: 24BCE0044</h4>
       </div>
 
       {/* Calculator Box */}
