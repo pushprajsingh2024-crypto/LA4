@@ -61,7 +61,7 @@ function Calculator() {
       {/* Header Section */}
       <div style={{ textAlign: "center", marginTop: "20px", fontFamily: "Arial" }}>
         <h3>Name: Pushpraj</h3> {/* Updated Name */}
-        <h4>Reg No: 24BCE00044</h4> {/* Updated Registration Number */}
+        <h4>Reg No: 24BCE0044</h4> {/* Updated Registration Number */}
       </div>
 
       {/* Calculator Box */}
