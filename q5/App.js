@@ -33,7 +33,7 @@ function App() {
 
       {/* Header Section */}
       <h3>Name: Pushpraj</h3>
-      <p>Reg No: 24BCE00044</p>
+      <p>Reg No: 24BCE0044</p>
 
       {/* Title */}
       <h2>Todo List</h2>
