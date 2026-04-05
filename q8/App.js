@@ -119,7 +119,7 @@ function App() {
       {/* Student Details */}
       <div style={{ textAlign: "center" }}>
         <h3>Name: Pushpraj</h3>
-        <h4>Reg No: 24BCE00044</h4>
+        <h4>Reg No: 24BCE0044</h4>
       </div>
 
       {/* Components */}
